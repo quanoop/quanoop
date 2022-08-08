@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @quanoop Anoop Kumar 
-- 👀 I’m interested in ...Web Development
-- 🌱 I’m currently learning ...DSA and Backend Web Development.
-- 💞️ I’m looking to collaborate on ...Front End Projects.
+- 👀 I’m interested in ...Web Development and Data Analisis.
+- 🌱 I’m currently learning ...Depth of Data Analysis.
+- 💞️ I’m looking to collaborate on ...Full Stack Web Projects.
 - 📫 How to reach me ...
                         Mail - quanoopz@gmail.com
 
